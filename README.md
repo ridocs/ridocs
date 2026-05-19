@@ -42,14 +42,14 @@ const mustafa = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mstfaeybk-svg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&icon_color=3ddc84&text_color=8492ad&ring_color=3ddc84&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfaeybk-svg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ridocs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&icon_color=3ddc84&text_color=8492ad&ring_color=3ddc84&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridocs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mstfaeybk-svg&theme=github-dark-blue&hide_border=true&background=0d0f14&stroke=1a2035&ring=3ddc84&fire=3ddc84&currStreakNum=eaf0ff&sideNums=eaf0ff&currStreakLabel=3ddc84&sideLabels=8492ad&dates=4a5570)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ridocs&theme=github-dark-blue&hide_border=true&background=0d0f14&stroke=1a2035&ring=3ddc84&fire=3ddc84&currStreakNum=eaf0ff&sideNums=eaf0ff&currStreakLabel=3ddc84&sideLabels=8492ad&dates=4a5570)](https://git.io/streak-stats)
 
 </div>
 
