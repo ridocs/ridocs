@@ -104,8 +104,8 @@ const mustafa = {
 
 <div align="center">
 
-// open to work · open to collaborate · open source
+All rights reserved · Copyright 2026 · Mustafa Eybek
 
-![Profile Views](https://komarev.com/ghpvc/?username=ridocs&style=flat-square&color=3ddc84&label=profile+views)
+ // ![Profile Views](https://komarev.com/ghpvc/?username=ridocs&style=flat-square&color=3ddc84&label=profile+views)
 
 </div>
