@@ -58,7 +58,7 @@ Geliştirdiğim projelerde uyum ve yüksek verimlilik sağlamak için modern ve 
 Aşağıdaki grafik, GitHub üzerindeki kodlama katkılarımın dinamik bir yılan oyunu animasyonuna dönüştürülmüş canlı halidir:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://github.com/ridocs/ridocs/actions/workflows/snake.yml/badge.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
