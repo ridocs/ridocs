@@ -147,5 +147,3 @@ const mustafa = {
 All rights reserved · Copyright 2026 · Mustafa Eybek
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ridocs&style=for-the-badge&color=3ddc84&label=PROFILE+VIEWS)
