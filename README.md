@@ -55,19 +55,17 @@ const mustafa = {
 
 ---
 
-## `cat contribution_snake.svg`
-
 <div align="center">
-
-<!-- Snake animation — GitHub Actions ile her gün otomatik güncellenir -->
+<!-- 🐍 Snake animasyonu — GitHub Actions ile her gün otomatik güncellenir -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ridocs/ridocs/output/github-snake-dark.svg" />
 </picture>
-
+<br/>
+<!-- 🌊 Dalga animasyonlu katkı grafiği — her zaman çalışır -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridocs&bg_color=0d0f14&color=3ddc84&line=3ddc84&point=ffffff&area=true&area_color=1a4a30&hide_border=true" />
 </div>
-
 ---
 
 ## `ls -la tech_stack/`
