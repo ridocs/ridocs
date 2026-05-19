@@ -1,89 +1,124 @@
-<!-- PREMIUM FUTURISTIC WAVE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.herokuapp.com/height=220&type=waving&color=gradient&customColorStart=0f172a&customColorEnd=7c3aed&text=ridocs&fontSize=52&fontColor=38bdf8&fontAlignY=40&desc=Software%20Engineer%20%7C%20Cross-Platform%20Architect&descAlignY=58&descAlign=50" width="100%" />
-</p>
-
-<!-- ORBITRON HIGH-TECH SUBTITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+UIs;Cross-Platform+Expert;Cloud+Architect" />
-</p>
-
----
-
-### 🪐 Technical Overview & Philosophy / Mühendislik Vizyonum
-
-Büyük ölçekli, yüksek performanslı ve sürdürülebilir sistemler inşa etmeye odaklı bir **Yazılım Mühendisiyim**. Kod kalitesini en üst düzeyde tutmak için endüstri standartlarında mimariler ve optimizasyon teknikleri uyguluyorum.
-
-*   🔭 **Aktif Ar-Ge Alanım:** Yüksek performanslı masaüstü & mobil grafik motoru optimizasyonları ve düşük gecikmeli güvenli REST mimarileri.
-*   🛡️ **Geliştirme Hedefim:** SOLID prensiplerine tam uyum, katmanlı temiz mimari (Clean Architecture) ve hata toleransı yüksek sistemler.
-*   🚀 **Performans Standardım:** Sub-16ms akıcı arayüz döngüleri, verimli yerel bellek önbellekleme (local caching) ve hafif RESTful sorgular.
-
----
-
-### 💻 Teknolojik Donanımım / Core Stack
-
-Geliştirdiğim projelerde uyum ve yüksek verimlilik sağlamak için modern ve bütünleşik bir teknoloji yelpazesi kullanıyorum:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,nodejs,git,windows,android,apple,vscode,html,css,postman&perline=7&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 Real-Time Developer Telemetry / Canlı Analiz Paneli
-
+<!-- Header -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td width="50%" align="center" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ridocs&show_icons=true&theme=tokyonight&count_private=true&border_radius=8&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0&bg_color=0f172a" height="195px" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridocs&layout=compact&theme=tokyonight&border_radius=8&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" height="195px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridocs&theme=tokyonight&border_radius=8&title_color=38bdf8&streak_color=a78bfa&background=0f172a&ring=38bdf8&fire=a78bfa" width="100%" alt="GitHub Streak" />
+
+```
+███╗   ███╗██╗   ██╗███████╗████████╗ █████╗ ███████╗ █████╗
+████╗ ████║██║   ██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████╗   ██║   ███████║█████╗  ███████║
+██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+                                                   E Y B E K
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Mobile+%26+Desktop+Developer;Dart+%7C+Flutter+%7C+HTML+%2F+CSS;Building+cross-platform+apps;Open+to+collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake Game / Canlı Katkı Grafiği
+## `whoami`
 
-Aşağıdaki grafik, GitHub üzerindeki kodlama katkılarımın dinamik bir yılan oyunu animasyonuna dönüştürülmüş canlı halidir:
-
-<p align="center">
-  <img src="https://github.com/ridocs/ridocs/actions/workflows/snake.yml/badge.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+```dart
+const mustafa = {
+  name:     "Mustafa Eybek",
+  username: "@ridocs",
+  role:     "Mobile & Desktop Developer",
+  location: "Kayseri, Turkey 🇹🇷",
+  stack: {
+    language: ["Dart"],
+    framework: ["Flutter"],
+    platforms: ["Android", "iOS", "Windows", "macOS", "Linux"],
+    web:       ["HTML", "CSS"],
+  },
+  currentlyBuilding: "Cross-platform apps with Flutter",
+  openToWork: true,
+};
+```
 
 ---
 
-### 📫 Connect With Me / İletişim Konsolu
-
-Proje iş birlikleri, teknik fikir alışverişleri veya sadece kahve içip sohbet etmek için bana aşağıdaki kanallardan anında ulaşabilirsiniz:
-
-<p align="center">
-  <a href="https://github.com/ridocs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=1e293b" alt="GitHub" />
-  </a>
-  <a href="mailto:mstfaeybk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/KULLANICI_ADINIZ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/DISCORD_USER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e293b" alt="Discord" />
-  </a>
-</p>
-
-<br/>
+## `git log --stats`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridocs&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mstfaeybk-svg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&icon_color=3ddc84&text_color=8492ad&ring_color=3ddc84&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfaeybk-svg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mstfaeybk-svg&theme=github-dark-blue&hide_border=true&background=0d0f14&stroke=1a2035&ring=3ddc84&fire=3ddc84&currStreakNum=eaf0ff&sideNums=eaf0ff&currStreakLabel=3ddc84&sideLabels=8492ad&dates=4a5570)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `cat contribution_snake.svg`
+
+<div align="center">
+
+<!-- Snake animation — GitHub Actions ile her gün otomatik güncellenir -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mstfaeybk-svg/mstfaeybk-svg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mstfaeybk-svg/mstfaeybk-svg/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mstfaeybk-svg/mstfaeybk-svg/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `ls -la tech_stack/`
+
+<div align="center">
+
+![Dart](https://img.shields.io/badge/Dart-0d0f14?style=for-the-badge&logo=dart&logoColor=0175c2)
+![Flutter](https://img.shields.io/badge/Flutter-0d0f14?style=for-the-badge&logo=flutter&logoColor=54c5f8)
+![HTML5](https://img.shields.io/badge/HTML5-0d0f14?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0f14?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Android](https://img.shields.io/badge/Android-0d0f14?style=for-the-badge&logo=android&logoColor=3ddc84)
+![iOS](https://img.shields.io/badge/iOS-0d0f14?style=for-the-badge&logo=apple&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows-0d0f14?style=for-the-badge&logo=windows&logoColor=0078d4)
+![Firebase](https://img.shields.io/badge/Firebase-0d0f14?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Git](https://img.shields.io/badge/Git-0d0f14?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0f14?style=for-the-badge&logo=github-actions&logoColor=ffffff)
+
+</div>
+
+---
+
+## `ls pinned/`
+
+<div align="center">
+
+[![api-gateway](https://github-readme-stats.vercel.app/api/pin/?username=mstfaeybk-svg&repo=api-gateway&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/mstfaeybk-svg)
+[![ui-components](https://github-readme-stats.vercel.app/api/pin/?username=mstfaeybk-svg&repo=ui-components&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/mstfaeybk-svg)
+
+</div>
+
+---
+
+## `cat contact.json`
+
+```json
+{
+  "github":   "https://github.com/mstfaeybk-svg",
+  "email":    "mustafa@eybek.dev",
+  "linkedin": "https://linkedin.com/in/mustafaeybek",
+  "location": "Kayseri, Turkey"
+}
+```
+
+---
+
+<div align="center">
+
+```
+// open to work · open to collaborate · open source
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=mstfaeybk-svg&style=flat-square&color=3ddc84&label=profile+views)
+
 </div>
