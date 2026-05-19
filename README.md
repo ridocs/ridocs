@@ -66,6 +66,7 @@ const mustafa = {
 <!-- 🌊 Dalga animasyonlu katkı grafiği — her zaman çalışır -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridocs&bg_color=0d0f14&color=3ddc84&line=3ddc84&point=ffffff&area=true&area_color=1a4a30&hide_border=true" />
 </div>
+
 ---
 
 ## `ls -la tech_stack/`
