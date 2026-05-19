@@ -89,17 +89,6 @@ const mustafa = {
 
 ---
 
-## `ls pinned/`
-
-<div align="center">
-
-[![api-gateway](https://github-readme-stats.vercel.app/api/pin/?username=ridocs&repo=api-gateway&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/ridocs)
-[![ui-components](https://github-readme-stats.vercel.app/api/pin/?username=ridocs&repo=ui-components&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/ridocs)
-
-</div>
-
----
-
 ## `cat contact.json`
 
 ```json
