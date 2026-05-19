@@ -38,6 +38,17 @@ const mustafa = {
 
 ---
 
+
+## `🎵 now_playing`
+ 
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=byynyufdojwteofbtzu4gj3k6&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=byynyufdojwteofbtzu4gj3k6&redirect=true)
+ 
+</div>
+
+---
+
 ## `git log --stats`
 
 <div align="center">
@@ -50,8 +61,6 @@ const mustafa = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ridocs&theme=github-dark-blue&hide_border=true&background=0d0f14&stroke=1a2035&ring=3ddc84&fire=3ddc84&currStreakNum=eaf0ff&sideNums=eaf0ff&currStreakLabel=3ddc84&sideLabels=8492ad&dates=4a5570)](https://git.io/streak-stats)
-
-![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)
 
 </div>
 
@@ -109,3 +118,5 @@ const mustafa = {
 All rights reserved · Copyright 2026 · Mustafa Eybek
 
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ridocs&style=for-the-badge&color=3ddc84&label=PROFILE+VIEWS)
