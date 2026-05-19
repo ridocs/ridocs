@@ -61,9 +61,9 @@ const mustafa = {
 
 <!-- Snake animation — GitHub Actions ile her gün otomatik güncellenir -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mstfaeybk-svg/mstfaeybk-svg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mstfaeybk-svg/mstfaeybk-svg/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mstfaeybk-svg/mstfaeybk-svg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ridocs/ridocs/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -93,8 +93,8 @@ const mustafa = {
 
 <div align="center">
 
-[![api-gateway](https://github-readme-stats.vercel.app/api/pin/?username=mstfaeybk-svg&repo=api-gateway&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/mstfaeybk-svg)
-[![ui-components](https://github-readme-stats.vercel.app/api/pin/?username=mstfaeybk-svg&repo=ui-components&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/mstfaeybk-svg)
+[![api-gateway](https://github-readme-stats.vercel.app/api/pin/?username=ridocs&repo=api-gateway&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/ridocs)
+[![ui-components](https://github-readme-stats.vercel.app/api/pin/?username=ridocs&repo=ui-components&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84)](https://github.com/ridocs)
 
 </div>
 
@@ -104,10 +104,11 @@ const mustafa = {
 
 ```json
 {
-  "github":   "https://github.com/mstfaeybk-svg",
-  "email":    "mustafa@eybek.dev",
-  "linkedin": "https://linkedin.com/in/mustafaeybek",
-  "location": "Kayseri, Turkey"
+  "github":    "https://github.com/ridocs",
+  "instagram": "https://instagram.com/mustafa.eybk",
+  "discord":   "arexus",
+  "mail":      "mstfaeybk@icloud.com",
+  "location":  "Kayseri, Turkey"
 }
 ```
 
@@ -119,6 +120,6 @@ const mustafa = {
 // open to work · open to collaborate · open source
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=mstfaeybk-svg&style=flat-square&color=3ddc84&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=ridocs&style=flat-square&color=3ddc84&label=profile+views)
 
 </div>
