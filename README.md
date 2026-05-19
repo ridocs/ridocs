@@ -104,14 +104,7 @@ const mustafa = {
 
 <div align="center">
 
-```
-<div align="center">
-
 // open to work · open to collaborate · open source
-
-</div>
-
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ridocs&style=flat-square&color=3ddc84&label=profile+views)
 
