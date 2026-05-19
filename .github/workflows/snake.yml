@@ -1,27 +1,35 @@
 name: Generate Snake
 
 on:
-  schedule: # Her 12 saatte bir çalıştır
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Manuel olarak çalıştırabilmek için
+  schedule:
+    - cron: "0 */12 * * *" # 12 saatte bir çalışır
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+    
+    # 🔴 Hatanın Çözümü İçin Eklenmesi Gereken Kısım:
+    permissions:
+      contents: write
       
-      - uses: Platane/snk@v3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push changes
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
+      - name: Push Changes
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
