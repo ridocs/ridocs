@@ -2,17 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 12 saatte bir çalışır
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
+# 🟢 Node.js 24 Uyarısını Kaldırmak ve Şimdiden Node 24 Sürümüne Geçmek İçin:
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     
-    # 🔴 Hatanın Çözümü İçin Eklenmesi Gereken Kısım:
+    # Git 128 hatasını çözmek için eklediğimiz izinler:
     permissions:
       contents: write
       
