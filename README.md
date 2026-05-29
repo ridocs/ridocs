@@ -107,27 +107,6 @@ const mustafa = {
 
 ---
 
-## `🏆 trophies`
- 
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ridocs&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
- 
-</div>
-
----
- 
-## `⏱️ wakatime_stats`
- 
-<div align="center">
-
-  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ridocs&theme=github_dark&hide_border=true&bg_color=0d0f14&title_color=3ddc84&text_color=8492ad&icon_color=3ddc84&layout=compact&langs_count=6)](https://wakatime.com/@ridocs)
- 
- 
-</div>
-
----
-
 ## `cat contact.json`
 
 ```json
