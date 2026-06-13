@@ -1,8 +1,8 @@
-<!-- Header --> 
+<!-- Header -->
 <div align="center">
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
- 
+
 </div>
 
 ---
@@ -19,7 +19,7 @@
                                                    E Y B E K
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Mobile+%26+Desktop+Developer;Dart+%7C+Flutter+%7C+HTML+%2F+CSS;Building+cross-platform+apps;Open+to+collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Dart+%7C+Flutter+%7C+TypeScript+%7C+Node.js;Building+cross-platform+apps;Open+to+collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,28 +31,29 @@
 const mustafa = {
   name:     "Mustafa Eybek",
   username: "@ridocs",
-  role:     "Mobile & Desktop Developer",
+  role:     "Full-Stack & Mobile Developer",
   location: "Kayseri, Turkey 🇹🇷",
   stack: {
-    language: ["Dart"],
-    framework: ["Flutter"],
-    platforms: ["Android", "iOS", "Windows", "macOS", "Linux"],
-    web:       ["HTML", "CSS"],
+    languages:  ["Dart", "TypeScript", "JavaScript"],
+    mobile:     ["Flutter"],
+    backend:    ["Node.js"],
+    frontend:   ["HTML", "CSS"],
+    platforms:  ["Android", "iOS", "Windows", "macOS", "Linux", "Web"],
+    tools:      ["Firebase", "Git", "GitHub Actions"],
   },
-  currentlyBuilding: "Cross-platform apps with Flutter",
+  currentlyBuilding: "Full-stack cross-platform applications",
   openToWork: true,
 };
 ```
 
 ---
 
-
 ## `🎵 now_playing`
- 
+
 <div align="center">
-  
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=byynyufdojwteofbtzu4gj3k6&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=byynyufdojwteofbtzu4gj3k6&redirect=true)
- 
+
 </div>
 
 ---
@@ -75,14 +76,12 @@ const mustafa = {
 ---
 
 <div align="center">
-<!-- 🐍 Snake animasyonu — GitHub Actions ile her gün otomatik güncellenir -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridocs/ridocs/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ridocs/ridocs/output/github-snake-dark.svg" />
 </picture>
 <br/>
-<!-- 🌊 Dalga animasyonlu katkı grafiği — her zaman çalışır -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridocs&bg_color=0d0f14&color=3ddc84&line=3ddc84&point=ffffff&area=true&area_color=1a4a30&hide_border=true" />
 </div>
 
@@ -94,11 +93,13 @@ const mustafa = {
 
 ![Dart](https://img.shields.io/badge/Dart-0d0f14?style=for-the-badge&logo=dart&logoColor=0175c2)
 ![Flutter](https://img.shields.io/badge/Flutter-0d0f14?style=for-the-badge&logo=flutter&logoColor=54c5f8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0f14?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0f14?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Node.js](https://img.shields.io/badge/Node.js-0d0f14?style=for-the-badge&logo=node.js&logoColor=339933)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0f14?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0f14?style=for-the-badge&logo=css3&logoColor=1572b6)
 ![Android](https://img.shields.io/badge/Android-0d0f14?style=for-the-badge&logo=android&logoColor=3ddc84)
 ![iOS](https://img.shields.io/badge/iOS-0d0f14?style=for-the-badge&logo=apple&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/Windows-0d0f14?style=for-the-badge&logo=windows&logoColor=0078d4)
 ![Firebase](https://img.shields.io/badge/Firebase-0d0f14?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![Git](https://img.shields.io/badge/Git-0d0f14?style=for-the-badge&logo=git&logoColor=f05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0f14?style=for-the-badge&logo=github-actions&logoColor=ffffff)
